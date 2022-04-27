@@ -1,4 +1,3 @@
-require './animal'
 require './human'
 
 tanaka = Human.new('田中 太郎', 25, '電車')
